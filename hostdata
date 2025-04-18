@@ -1,0 +1,16 @@
+ Static hostname: Linux-Server
+       Icon name: computer-vm
+         Chassis: vm 🖴
+      Machine ID: f56fa7358d414b77939b4e88ae2f60d1
+         Boot ID: 20935714fed34523b5521a2da4fdd3e1
+    AF_VSOCK CID: 3368205691
+  Virtualization: vmware
+Operating System: CentOS Stream 10 (Coughlan)
+     CPE OS Name: cpe:/o:centos:centos:10
+          Kernel: Linux 6.12.0-66.el10.x86_64
+    Architecture: x86-64
+ Hardware Vendor: VMware, Inc.
+  Hardware Model: VMware Virtual Platform
+Firmware Version: 6.00
+   Firmware Date: Wed 2020-07-22
+    Firmware Age: 4y 8month 3w 5d
